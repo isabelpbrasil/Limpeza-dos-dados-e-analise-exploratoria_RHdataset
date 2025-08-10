@@ -4,7 +4,7 @@ Trabalho final - Trilha Analista de dados
 
 Aluna: Isabel Pacheco Brasil de Matos
 
-Dashboard Power BI: https://app.powerbi.com/links/aaLFJBDp6S?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&pbi_source=linkShare
+Drive com Power BI: https://drive.google.com/drive/folders/1Qe4BOGX6P12FcAhFu1YsAfOZY90QoWoF?usp=sharing
 
 Fonte (base de dados utilizada): https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
 
