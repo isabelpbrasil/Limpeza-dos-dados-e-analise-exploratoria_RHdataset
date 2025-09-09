@@ -4,7 +4,9 @@ Trabalho final - Trilha Analista de dados
 
 Aluna: Isabel Pacheco Brasil de Matos
 
-Drive com Power BI: https://drive.google.com/drive/folders/1Qe4BOGX6P12FcAhFu1YsAfOZY90QoWoF?usp=sharing
+[Dashboard online IBM HR Analytics Employee Attrition & Performance](https://app.powerbi.com/view?r=eyJrIjoiYmQzZWU0ZDktZjNlZS00ZmU3LWIzMzgtMTFmYzQ3ZWVlMTg0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+Drive com dashboard no Power BI: https://drive.google.com/drive/folders/1Qe4BOGX6P12FcAhFu1YsAfOZY90QoWoF?usp=sharing
 
 Fonte (base de dados utilizada): https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
 
